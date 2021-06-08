@@ -1,4 +1,4 @@
-<template>
+<template modif>
   <div v-if="hasLinks" class="next-and-prev-link">
     <div class="container">
       <div class="prev">
